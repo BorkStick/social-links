@@ -18,6 +18,14 @@ body {
     text-align: center;
 }
 
+.image-box {
+    background-color: #bd93f9;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: #50fa7b solid 8px;
+}
+
 .user-img {
     height: 200px;
     display: flex;
